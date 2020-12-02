@@ -1,0 +1,18 @@
+{
+  "name": "hutech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "jsdom": "^16.4.0",
+    "lodash": "^4.17.20",
+    "puppeteer": "^5.2.1"
+  }
+}
