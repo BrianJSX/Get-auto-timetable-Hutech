@@ -12,7 +12,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "jsdom": "^16.4.0",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "puppeteer": "^5.2.1"
   }
 }
